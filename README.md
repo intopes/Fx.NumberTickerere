@@ -8,6 +8,7 @@ This is like tweening a style value, but instead you tween the html content inte
 
 You may also provide a transformation function in the options, which is useful for prepending zeroes
 or simulating float values for example.
+CHECK DEMO VERSION IN: [https://mierdavida.es](https://mierdavida.es)
 
 
 
