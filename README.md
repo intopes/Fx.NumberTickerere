@@ -46,7 +46,7 @@ $('myCounter').numberTicker(100, {
 Demo
 ----
 
-http://jsfiddle.net/goutte/K6R8k/
+https://mierdavida.es
 
 
 Thanks
